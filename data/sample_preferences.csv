@@ -1,0 +1,5 @@
+prompt,response_a,response_b,preference
+What is RLHF?,RLHF is a method to align LLMs with human feedback.,RLHF is like supervised learning with no human input.,A
+What is PPO?,PPO is a reinforcement learning algorithm.,PPO is a type of neural network.,A
+Define LLM.,LLMs are large models trained on diverse internet text.,LLMs are models used in spreadsheets.,A
+Explain reward model.,A reward model scores outputs based on human preferences.,A reward model gives random values to outputs.,A

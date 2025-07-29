@@ -1,0 +1,6 @@
+{
+  "policy_model": "gpt2",
+  "reward_model": "distilbert-base-uncased",
+  "ppo_epochs": 3,
+  "batch_size": 4
+}
