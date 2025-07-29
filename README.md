@@ -1,4 +1,4 @@
-# 🧠 RLHF-Toy-Language-Model
+# RLHF-Toy-Language-Model
 
 This project demonstrates a minimal working pipeline for **Reinforcement Learning from Human Feedback (RLHF)** using Hugging Face's `trl` library.
 
@@ -21,7 +21,7 @@ RLHF is a framework for fine-tuning language models using human preferences, ena
 
 ---
 
-## 📈 Example Training Flow
+## Example Training Flow
 
 1. Train a reward model:
 ```bash
@@ -40,7 +40,7 @@ python eval/evaluate_model.py
 
 ---
 
-## 💡 Key Technologies
+## Key Technologies
 
 - `transformers`, `trl`, `torch`, `datasets`, `accelerate`
 - Reward modeling via classification
@@ -48,17 +48,16 @@ python eval/evaluate_model.py
 
 ---
 
-## 🎯 Why This Project?
+## Why This Project?
 
 This is a compact yet powerful demonstration of:
 - Human-in-the-loop learning
 - Reward modeling
 - LLM fine-tuning with reinforcement learning
 
-Highly relevant for roles at OpenAI, Anthropic, DeepMind, and safety-alignment research.
 
 ---
 
-## 📜 License
+## License
 
 MIT
