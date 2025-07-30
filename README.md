@@ -1,4 +1,4 @@
-# RLHF-Toy-Language-Model
+# RLHF-Lite-Language-Model
 
 This project demonstrates a minimal working pipeline for **Reinforcement Learning from Human Feedback (RLHF)** using Hugging Face's `trl` library.
 
